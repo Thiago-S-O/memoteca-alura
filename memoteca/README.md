@@ -25,3 +25,10 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+## Git onde está o projeto memoteca da alura (copiar o CSS de lá)
+https://github.com/alura-cursos/2438-angular-memoteca/tree/aula-6/src
+
+## figma (esboço utilizado neste projeto)
+https://www.figma.com/file/YTSUBbe7Zgwx3L567TAzTc/Memoteca---Angular%3A-Come%C3%A7ando-com-o-Framework?type=design&node-id=148-26&mode=design
