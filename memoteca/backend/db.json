@@ -1,0 +1,22 @@
+{
+  "pensamentos": [
+    {
+      "id": "1",
+      "conteudo": "passo informações para o componente filho",
+      "autoria": "componente pai",
+      "modelo": "modelo1"
+    },
+    {
+      "id": "2",
+      "conteudo": "minha propriedade é decorada com o @Input()",
+      "autoria": "componente filho",
+      "modelo": "modelo2"
+    },
+    {
+      "id": "3",
+      "conteudo": "vamos escrever um texto com mais de duzentos e cinquenta e seis letras, para podermos testa a diretiva [ngClass] que chama a função larguraPensamento() e executa a mesma para poder mudar o tamanho do card conforme o CSS do componente listar-pensamentos. Será que deu certo, se aqui tiver mesmo as duzentos e cinquenta e seis letras neste mock, então vamos ver o resultado!",
+      "autoria": "lista-componente",
+      "modelo": "modelo3"
+    }
+  ]
+}
